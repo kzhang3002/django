@@ -1,2 +1,2 @@
 # django
-django学习测试
+学习测试
