@@ -1,0 +1,7 @@
+*.pyc
+.idea
+.DS_Store
+*.rdb
+venv
+venv1
+*.whl
